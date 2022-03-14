@@ -1,0 +1,1 @@
+d={"mamad":'021', 'ali':'passwd'}
